@@ -34,7 +34,7 @@
     <domainDesc></domainDesc>
     <keystorePassword></keystorePassword>
     <bw.Home>C:\Tibco_bw6.8\bw\6.8</bw.Home>
-    <httpPort>9456</httpPort>
+    <httpPort>9458</httpPort>
     <profile>default.substvar</profile>
     <restartAppNode>false</restartAppNode>
     <appNode>emporganization-AppNode</appNode>
